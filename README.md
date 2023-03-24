@@ -3,10 +3,10 @@ Welcome to the BOSE company landing page!
  - [DEMO LINK](https://DaveBeetle.github.io/bose-landing/)
  - [Figma Design](https://www.figma.com/file/OMjQNb3hg1LKMV4OwyQ3Ao/BOSE?node-id=0-1)
 
-# Description
+## Description
 Landing for the BOSE company. You can see several sections with products, product categories and contact forms. Contact information is also available.
 
-# Technologies
+## Technologies
 - HTML
 - CSS
 - BEM
@@ -14,7 +14,7 @@ Landing for the BOSE company. You can see several sections with products, produc
 - Flexbox
 - CSS Grid
 
-# Instructions how to run application locally:
+## Instructions how to run application locally:
 1. Use 14 version of node.js.
 2. Clone the repository to your local machine.
 3. Open terminal in the project.
