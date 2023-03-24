@@ -5,6 +5,7 @@ Welcome to the BOSE company landing page!
 
 ## Description
 Landing for the BOSE company. You can see several sections with products, product categories and contact forms. Contact information is also available.
+The implementation has a desktop version (1280px), a tablet version (640px) and a mobile version (>320px).
 
 ## Technologies
 - HTML
